@@ -1,0 +1,2 @@
+rootProject.name='Android_MovieList'
+include ':app'
